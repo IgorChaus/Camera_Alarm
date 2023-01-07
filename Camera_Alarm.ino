@@ -1,6 +1,3 @@
-//Перед загрузкой по проводам необходимо установить перемычку BOOT
-//Процессор ESP8266
-
 #define ESP_BUILTIN_LED 2
 #define ESP_RELAY 4
 #define ESP_INPUT 5 //D1
@@ -13,14 +10,13 @@
 #include <WiFiUdp.h>
 #include <ArduinoOTA.h>
 
-char auth[] = "4c33919be3004e8f982ce3f3ad82a78c";
-char ssid[] = "Dacha";
-char pass[] = "Skidan12";
-char server[] = "37.29.66.44";
+char auth[] = "XXXXXXXXXXXXXXXXXXXXXXX";
+char ssid[] = "XXXXXXXXXXXXXXX";
+char pass[] = "XXXXXXXXXX";
+char server[] = "XXX.XXX.XXX.XXX";
 int port = 8080;
 
 char host[][14] = {"192.168.3.208", "192.168.3.209", "192.168.3.210", "192.168.3.211", "192.168.3.212"};
-//char host[][14] = {"192.168.2.58", "192.168.2.58", "192.168.2.58", "192.168.2.58", "192.168.2.58"};
 
 int val, wifisignal;
 
