@@ -1,4 +1,4 @@
-# Camera_Alarm
+# Camera Alarm
 <p>This scetch controls alarm settings of XMEYE cameras</p>
 <p>XMEYE IP cameras have one really useful function. It is voice smart alarm. If you activate it, the camera will make loud voice messages
 from its speaker when the camera detects the shape of a human. The bright light will turn on in the dark additionnally. So a security alarm
