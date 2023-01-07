@@ -7,7 +7,7 @@ function on each camera. If you have a lot of cameras it will be difficult to do
 <p>Would be better when you activate the house security alarm and camera’s alarm will activate automatically. When you deactivate the house
 security alarm  camera’s alarm will deactivate automatically as well.</p>
 <p>My device connects to house security alarm. If you activate your house security alarm my device acivate alarm function on each camera.<>
-When you deactivate your security system my device deactivate alarm function on the cameras. My device based on the ESP8266. It have connect
+When you deactivate your security system my device deactivate alarm function on the cameras. My device is based on the ESP8266. It have to connect
 to home network to control smart alarm on the cameras through WiFi.</p>
 
 ![esp8266](https://user-images.githubusercontent.com/95531383/211155595-2625898b-a47b-436c-9460-4aaca3671a15.png)
